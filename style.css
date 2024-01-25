@@ -1,9 +1,16 @@
 body{
     background-image: url(walentynkaa.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    
 }
 h1{
     color: white;
     text-align: center;
+    border: 3px dotted ;
 }
 .tak{
  font-size: xx-large;
